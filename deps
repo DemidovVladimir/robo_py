@@ -1,0 +1,4 @@
+cozmo
+requests
+requests_oauthlib
+flask
